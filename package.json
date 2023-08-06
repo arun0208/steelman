@@ -61,5 +61,18 @@
     "babel-plugin-named-exports-order": "^0.0.2",
     "prop-types": "^15.8.1",
     "webpack": "^5.74.0"
-  }
+  },
+  "description": "- clone this repo and open with your favorite code editor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saleemkhan08/assignment-question-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saleemkhan08/assignment-question-1/issues"
+  },
+  "homepage": "https://github.com/saleemkhan08/assignment-question-1#readme"
 }
